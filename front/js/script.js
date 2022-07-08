@@ -35,5 +35,5 @@ function createArticle(product) {
   article.appendChild(img);
   article.appendChild(h3);
   article.appendChild(p);
-
+  console.log(a);
 }
